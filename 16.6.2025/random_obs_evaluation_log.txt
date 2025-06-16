@@ -1,0 +1,110 @@
+2025-06-13 23:28:22,086 - INFO - Bắt đầu đánh giá mô hình: ./models/best/best_model.zip
+2025-06-13 23:28:22,086 - INFO - Số lần thử: 50, Quãng đường: 50.0m
+2025-06-13 23:28:22,086 - INFO - --- Thử nghiệm 1 ---
+2025-06-13 23:28:23,563 - INFO - Thử nghiệm 1: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.87, Z=6.92), Phần thưởng=32731.02, Số bước=51
+2025-06-13 23:28:23,563 - INFO - --- Thử nghiệm 2 ---
+2025-06-13 23:28:23,810 - INFO - Thử nghiệm 2: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.80, Z=6.93), Phần thưởng=32924.27, Số bước=51
+2025-06-13 23:28:23,810 - INFO - --- Thử nghiệm 3 ---
+2025-06-13 23:28:24,132 - INFO - Thử nghiệm 3: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.59, Z=6.93), Phần thưởng=32627.33, Số bước=51
+2025-06-13 23:28:24,133 - INFO - --- Thử nghiệm 4 ---
+2025-06-13 23:28:24,338 - INFO - Thử nghiệm 4: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.48, Z=6.92), Phần thưởng=32866.44, Số bước=52
+2025-06-13 23:28:24,338 - INFO - --- Thử nghiệm 5 ---
+2025-06-13 23:28:24,605 - INFO - Thử nghiệm 5: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.69, Z=6.91), Phần thưởng=32707.36, Số bước=50
+2025-06-13 23:28:24,605 - INFO - --- Thử nghiệm 6 ---
+2025-06-13 23:28:24,927 - INFO - Thử nghiệm 6: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.03, Z=6.92), Phần thưởng=32244.07, Số bước=51
+2025-06-13 23:28:24,927 - INFO - --- Thử nghiệm 7 ---
+2025-06-13 23:28:25,198 - INFO - Thử nghiệm 7: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.78, Z=6.92), Phần thưởng=32611.44, Số bước=50
+2025-06-13 23:28:25,198 - INFO - --- Thử nghiệm 8 ---
+2025-06-13 23:28:25,437 - INFO - Thử nghiệm 8: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.31, Z=6.92), Phần thưởng=32552.50, Số bước=51
+2025-06-13 23:28:25,437 - INFO - --- Thử nghiệm 9 ---
+2025-06-13 23:28:25,668 - INFO - Thử nghiệm 9: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.46, Z=6.92), Phần thưởng=32819.08, Số bước=52
+2025-06-13 23:28:25,668 - INFO - --- Thử nghiệm 10 ---
+2025-06-13 23:28:25,921 - INFO - Thử nghiệm 10: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.55, Z=6.91), Phần thưởng=32829.85, Số bước=51
+2025-06-13 23:28:25,921 - INFO - --- Thử nghiệm 11 ---
+2025-06-13 23:28:26,680 - INFO - Thử nghiệm 11: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.66, Z=8.01), Phần thưởng=314087.53, Số bước=509
+2025-06-13 23:28:26,680 - INFO - --- Thử nghiệm 12 ---
+2025-06-13 23:28:27,302 - INFO - Thử nghiệm 12: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.63, Z=8.01), Phần thưởng=313092.10, Số bước=509
+2025-06-13 23:28:27,302 - INFO - --- Thử nghiệm 13 ---
+2025-06-13 23:28:27,512 - INFO - Thử nghiệm 13: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.83, Z=6.93), Phần thưởng=32529.72, Số bước=51
+2025-06-13 23:28:27,512 - INFO - --- Thử nghiệm 14 ---
+2025-06-13 23:28:27,744 - INFO - Thử nghiệm 14: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.64, Z=6.91), Phần thưởng=33230.43, Số bước=52
+2025-06-13 23:28:27,744 - INFO - --- Thử nghiệm 15 ---
+2025-06-13 23:28:28,425 - INFO - Thử nghiệm 15: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.53, Z=8.00), Phần thưởng=314026.65, Số bước=510
+2025-06-13 23:28:28,426 - INFO - --- Thử nghiệm 16 ---
+2025-06-13 23:28:28,629 - INFO - Thử nghiệm 16: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.22, Z=6.90), Phần thưởng=32759.60, Số bước=51
+2025-06-13 23:28:28,629 - INFO - --- Thử nghiệm 17 ---
+2025-06-13 23:28:28,968 - INFO - Thử nghiệm 17: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.20, Z=6.91), Phần thưởng=32109.98, Số bước=51
+2025-06-13 23:28:28,976 - INFO - --- Thử nghiệm 18 ---
+2025-06-13 23:28:29,187 - INFO - Thử nghiệm 18: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.85, Z=6.91), Phần thưởng=32828.67, Số bước=50
+2025-06-13 23:28:29,187 - INFO - --- Thử nghiệm 19 ---
+2025-06-13 23:28:29,403 - INFO - Thử nghiệm 19: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.69, Z=6.91), Phần thưởng=32502.58, Số bước=50
+2025-06-13 23:28:29,403 - INFO - --- Thử nghiệm 20 ---
+2025-06-13 23:28:29,633 - INFO - Thử nghiệm 20: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.94, Z=6.92), Phần thưởng=33393.57, Số bước=52
+2025-06-13 23:28:29,642 - INFO - --- Thử nghiệm 21 ---
+2025-06-13 23:28:30,283 - INFO - Thử nghiệm 21: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.57, Z=8.00), Phần thưởng=309459.25, Số bước=510
+2025-06-13 23:28:30,283 - INFO - --- Thử nghiệm 22 ---
+2025-06-13 23:28:30,493 - INFO - Thử nghiệm 22: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.74, Z=6.91), Phần thưởng=33393.51, Số bước=51
+2025-06-13 23:28:30,493 - INFO - --- Thử nghiệm 23 ---
+2025-06-13 23:28:30,689 - INFO - Thử nghiệm 23: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.52, Z=6.93), Phần thưởng=32327.06, Số bước=51
+2025-06-13 23:28:30,689 - INFO - --- Thử nghiệm 24 ---
+2025-06-13 23:28:30,926 - INFO - Thử nghiệm 24: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.67, Z=6.91), Phần thưởng=32559.26, Số bước=50
+2025-06-13 23:28:30,926 - INFO - --- Thử nghiệm 25 ---
+2025-06-13 23:28:31,243 - INFO - Thử nghiệm 25: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.39, Z=6.92), Phần thưởng=32751.48, Số bước=52
+2025-06-13 23:28:31,243 - INFO - --- Thử nghiệm 26 ---
+2025-06-13 23:28:31,466 - INFO - Thử nghiệm 26: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.99, Z=6.91), Phần thưởng=33604.97, Số bước=52
+2025-06-13 23:28:31,466 - INFO - --- Thử nghiệm 27 ---
+2025-06-13 23:28:31,665 - INFO - Thử nghiệm 27: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.64, Z=6.92), Phần thưởng=33165.61, Số bước=51
+2025-06-13 23:28:31,665 - INFO - --- Thử nghiệm 28 ---
+2025-06-13 23:28:31,882 - INFO - Thử nghiệm 28: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.25, Z=6.90), Phần thưởng=32985.98, Số bước=52
+2025-06-13 23:28:31,882 - INFO - --- Thử nghiệm 29 ---
+2025-06-13 23:28:32,109 - INFO - Thử nghiệm 29: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.72, Z=6.91), Phần thưởng=33524.49, Số bước=52
+2025-06-13 23:28:32,109 - INFO - --- Thử nghiệm 30 ---
+2025-06-13 23:28:32,366 - INFO - Thử nghiệm 30: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.65, Z=6.91), Phần thưởng=33376.12, Số bước=52
+2025-06-13 23:28:32,366 - INFO - --- Thử nghiệm 31 ---
+2025-06-13 23:28:32,614 - INFO - Thử nghiệm 31: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.27, Z=6.92), Phần thưởng=32835.78, Số bước=52
+2025-06-13 23:28:32,614 - INFO - --- Thử nghiệm 32 ---
+2025-06-13 23:28:33,288 - INFO - Thử nghiệm 32: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.52, Z=8.00), Phần thưởng=316501.98, Số bước=509
+2025-06-13 23:28:33,288 - INFO - --- Thử nghiệm 33 ---
+2025-06-13 23:28:34,048 - INFO - Thử nghiệm 33: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.60, Z=8.00), Phần thưởng=307022.83, Số bước=510
+2025-06-13 23:28:34,048 - INFO - --- Thử nghiệm 34 ---
+2025-06-13 23:28:34,257 - INFO - Thử nghiệm 34: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.03, Z=6.92), Phần thưởng=31977.01, Số bước=51
+2025-06-13 23:28:34,257 - INFO - --- Thử nghiệm 35 ---
+2025-06-13 23:28:34,480 - INFO - Thử nghiệm 35: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.75, Z=6.92), Phần thưởng=33302.44, Số bước=52
+2025-06-13 23:28:34,480 - INFO - --- Thử nghiệm 36 ---
+2025-06-13 23:28:35,231 - INFO - Thử nghiệm 36: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.60, Z=8.00), Phần thưởng=306792.83, Số bước=510
+2025-06-13 23:28:35,231 - INFO - --- Thử nghiệm 37 ---
+2025-06-13 23:28:35,445 - INFO - Thử nghiệm 37: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.91, Z=6.91), Phần thưởng=33026.20, Số bước=51
+2025-06-13 23:28:35,445 - INFO - --- Thử nghiệm 38 ---
+2025-06-13 23:28:35,828 - INFO - Thử nghiệm 38: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.73, Z=6.92), Phần thưởng=33276.93, Số bước=51
+2025-06-13 23:28:35,829 - INFO - --- Thử nghiệm 39 ---
+2025-06-13 23:28:36,090 - INFO - Thử nghiệm 39: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.97, Z=6.92), Phần thưởng=32623.48, Số bước=50
+2025-06-13 23:28:36,090 - INFO - --- Thử nghiệm 40 ---
+2025-06-13 23:28:36,325 - INFO - Thử nghiệm 40: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.12, Z=6.92), Phần thưởng=32531.88, Số bước=52
+2025-06-13 23:28:36,325 - INFO - --- Thử nghiệm 41 ---
+2025-06-13 23:28:36,576 - INFO - Thử nghiệm 41: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.77, Z=6.91), Phần thưởng=33403.19, Số bước=52
+2025-06-13 23:28:36,576 - INFO - --- Thử nghiệm 42 ---
+2025-06-13 23:28:36,814 - INFO - Thử nghiệm 42: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.48, Z=6.92), Phần thưởng=32785.79, Số bước=52
+2025-06-13 23:28:36,814 - INFO - --- Thử nghiệm 43 ---
+2025-06-13 23:28:37,471 - INFO - Thử nghiệm 43: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=576.62, Z=8.00), Phần thưởng=313639.54, Số bước=510
+2025-06-13 23:28:37,471 - INFO - --- Thử nghiệm 44 ---
+2025-06-13 23:28:37,684 - INFO - Thử nghiệm 44: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.93, Z=6.92), Phần thưởng=32766.02, Số bước=50
+2025-06-13 23:28:37,684 - INFO - --- Thử nghiệm 45 ---
+2025-06-13 23:28:37,896 - INFO - Thử nghiệm 45: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.57, Z=6.93), Phần thưởng=32404.66, Số bước=50
+2025-06-13 23:28:37,896 - INFO - --- Thử nghiệm 46 ---
+2025-06-13 23:28:38,262 - INFO - Thử nghiệm 46: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.81, Z=6.91), Phần thưởng=33507.65, Số bước=52
+2025-06-13 23:28:38,262 - INFO - --- Thử nghiệm 47 ---
+2025-06-13 23:28:38,441 - INFO - Thử nghiệm 47: Lý do kết thúc=VA_CHẠM, Vị trí cuối=(X=11.31, Z=6.55), Phần thưởng=118.61, Số bước=17
+2025-06-13 23:28:38,442 - INFO - --- Thử nghiệm 48 ---
+2025-06-13 23:28:38,654 - INFO - Thử nghiệm 48: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=49.63, Z=6.92), Phần thưởng=32605.49, Số bước=51
+2025-06-13 23:28:38,654 - INFO - --- Thử nghiệm 49 ---
+2025-06-13 23:28:38,885 - INFO - Thử nghiệm 49: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=50.36, Z=6.90), Phần thưởng=33279.28, Số bước=52
+2025-06-13 23:28:38,885 - INFO - --- Thử nghiệm 50 ---
+2025-06-13 23:28:39,074 - INFO - Thử nghiệm 50: Lý do kết thúc=VA_CHẠM, Vị trí cuối=(X=17.05, Z=6.46), Phần thưởng=3615.74, Số bước=23
+2025-06-13 23:28:39,074 - INFO - --- Tóm tắt hiệu suất ---
+2025-06-13 23:28:39,074 - INFO - Tỷ lệ thành công: 40/50 (80.0%)
+2025-06-13 23:28:39,074 - INFO - Tỷ lệ va chạm: 2/50 (4.0%)
+2025-06-13 23:28:39,074 - INFO - Tỷ lệ thất bại do nguy hiểm: 8/50 (16.0%)
+2025-06-13 23:28:39,074 - INFO - Phần thưởng trung bình: 76252.78
+2025-06-13 23:28:39,074 - INFO - Độ lệch chuẩn phần thưởng: 103001.18
+2025-06-13 23:28:39,074 - INFO - Số bước trung bình: 123.30
+2025-06-13 23:28:39,074 - INFO - Khoảng cách trung bình đến mục tiêu (thất bại): 428.45 m
