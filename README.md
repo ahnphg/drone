@@ -1,4 +1,4 @@
-Cách chạy mỗi file python:  python drone_a2c_train_50.py --mode train   //Thay thế tên file là đc
+Cách chạy mỗi file:     python drone_a2c_train_50.py --mode train   //Thay thế tên file là đc
 
 
 File train_flappy_50m đưa ra ảnh: 
