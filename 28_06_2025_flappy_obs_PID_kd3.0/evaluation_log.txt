@@ -1,0 +1,111 @@
+2025-06-28 12:57:02,030 - INFO - Bắt đầu đánh giá mô hình: ./models/chunk_1_model.zip
+2025-06-28 12:57:02,030 - INFO - Số lần thử: 50, Quãng đường: 100.0m
+2025-06-28 12:57:02,030 - INFO - --- Thử nghiệm 1 ---
+2025-06-28 12:57:04,493 - INFO - Thử nghiệm 1: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.00, Z=5.66), Góc cuối=73.7°, Phần thưởng=70432.82, Số bước=137
+2025-06-28 12:57:04,494 - INFO - --- Thử nghiệm 2 ---
+2025-06-28 12:57:05,016 - INFO - Thử nghiệm 2: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.10, Z=6.70), Góc cuối=64.7°, Phần thưởng=69263.77, Số bước=138
+2025-06-28 12:57:05,016 - INFO - --- Thử nghiệm 3 ---
+2025-06-28 12:57:05,509 - INFO - Thử nghiệm 3: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.75, Z=6.63), Góc cuối=69.7°, Phần thưởng=68094.75, Số bước=138
+2025-06-28 12:57:05,509 - INFO - --- Thử nghiệm 4 ---
+2025-06-28 12:57:05,981 - INFO - Thử nghiệm 4: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.78, Z=5.94), Góc cuối=65.8°, Phần thưởng=69297.47, Số bước=135
+2025-06-28 12:57:05,981 - INFO - --- Thử nghiệm 5 ---
+2025-06-28 12:57:06,481 - INFO - Thử nghiệm 5: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.02, Z=4.38), Góc cuối=56.4°, Phần thưởng=68207.64, Số bước=137
+2025-06-28 12:57:06,481 - INFO - --- Thử nghiệm 6 ---
+2025-06-28 12:57:06,924 - INFO - Thử nghiệm 6: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.10, Z=6.95), Góc cuối=56.7°, Phần thưởng=67421.21, Số bước=137
+2025-06-28 12:57:06,924 - INFO - --- Thử nghiệm 7 ---
+2025-06-28 12:57:07,371 - INFO - Thử nghiệm 7: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.77, Z=5.93), Góc cuối=60.8°, Phần thưởng=71059.42, Số bước=137
+2025-06-28 12:57:07,371 - INFO - --- Thử nghiệm 8 ---
+2025-06-28 12:57:07,810 - INFO - Thử nghiệm 8: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.52, Z=5.50), Góc cuối=67.6°, Phần thưởng=71218.23, Số bước=135
+2025-06-28 12:57:07,810 - INFO - --- Thử nghiệm 9 ---
+2025-06-28 12:57:08,397 - INFO - Thử nghiệm 9: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.76, Z=5.78), Góc cuối=66.5°, Phần thưởng=69182.82, Số bước=136
+2025-06-28 12:57:08,397 - INFO - --- Thử nghiệm 10 ---
+2025-06-28 12:57:08,866 - INFO - Thử nghiệm 10: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.57, Z=5.78), Góc cuối=66.2°, Phần thưởng=69184.87, Số bước=136
+2025-06-28 12:57:08,866 - INFO - --- Thử nghiệm 11 ---
+2025-06-28 12:57:09,331 - INFO - Thử nghiệm 11: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.73, Z=5.53), Góc cuối=67.4°, Phần thưởng=68952.47, Số bước=136
+2025-06-28 12:57:09,331 - INFO - --- Thử nghiệm 12 ---
+2025-06-28 12:57:09,740 - INFO - Thử nghiệm 12: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.19, Z=6.24), Góc cuối=70.7°, Phần thưởng=68155.46, Số bước=138
+2025-06-28 12:57:09,740 - INFO - --- Thử nghiệm 13 ---
+2025-06-28 12:57:10,204 - INFO - Thử nghiệm 13: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.03, Z=5.89), Góc cuối=59.8°, Phần thưởng=67014.00, Số bước=137
+2025-06-28 12:57:10,204 - INFO - --- Thử nghiệm 14 ---
+2025-06-28 12:57:10,605 - INFO - Thử nghiệm 14: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.75, Z=6.37), Góc cuối=59.5°, Phần thưởng=69610.26, Số bước=136
+2025-06-28 12:57:10,605 - INFO - --- Thử nghiệm 15 ---
+2025-06-28 12:57:11,189 - INFO - Thử nghiệm 15: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.06, Z=5.95), Góc cuối=73.7°, Phần thưởng=68160.71, Số bước=137
+2025-06-28 12:57:11,189 - INFO - --- Thử nghiệm 16 ---
+2025-06-28 12:57:11,678 - INFO - Thử nghiệm 16: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.81, Z=5.66), Góc cuối=74.4°, Phần thưởng=69562.65, Số bước=137
+2025-06-28 12:57:11,678 - INFO - --- Thử nghiệm 17 ---
+2025-06-28 12:57:12,148 - INFO - Thử nghiệm 17: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.75, Z=5.24), Góc cuối=73.1°, Phần thưởng=68797.45, Số bước=137
+2025-06-28 12:57:12,148 - INFO - --- Thử nghiệm 18 ---
+2025-06-28 12:57:12,621 - INFO - Thử nghiệm 18: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.81, Z=6.60), Góc cuối=73.5°, Phần thưởng=68688.12, Số bước=138
+2025-06-28 12:57:12,621 - INFO - --- Thử nghiệm 19 ---
+2025-06-28 12:57:12,919 - INFO - Thử nghiệm 19: Lý do kết thúc=NGUY_HIỂM, Vị trí cuối=(X=0.89, Z=6.29), Góc cuối=90.1°, Phần thưởng=284.11, Số bước=7
+2025-06-28 12:57:12,919 - INFO - --- Thử nghiệm 20 ---
+2025-06-28 12:57:13,391 - INFO - Thử nghiệm 20: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.93, Z=5.76), Góc cuối=66.2°, Phần thưởng=70316.38, Số bước=137
+2025-06-28 12:57:13,391 - INFO - --- Thử nghiệm 21 ---
+2025-06-28 12:57:13,849 - INFO - Thử nghiệm 21: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.76, Z=5.86), Góc cuối=73.1°, Phần thưởng=69165.14, Số bước=138
+2025-06-28 12:57:13,849 - INFO - --- Thử nghiệm 22 ---
+2025-06-28 12:57:14,367 - INFO - Thử nghiệm 22: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.65, Z=5.87), Góc cuối=59.9°, Phần thưởng=68524.71, Số bước=138
+2025-06-28 12:57:14,367 - INFO - --- Thử nghiệm 23 ---
+2025-06-28 12:57:14,936 - INFO - Thử nghiệm 23: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.52, Z=5.08), Góc cuối=61.7°, Phần thưởng=70229.79, Số bước=135
+2025-06-28 12:57:14,936 - INFO - --- Thử nghiệm 24 ---
+2025-06-28 12:57:15,398 - INFO - Thử nghiệm 24: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.63, Z=5.08), Góc cuối=51.0°, Phần thưởng=69783.88, Số bước=135
+2025-06-28 12:57:15,398 - INFO - --- Thử nghiệm 25 ---
+2025-06-28 12:57:15,808 - INFO - Thử nghiệm 25: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.61, Z=6.31), Góc cuối=58.8°, Phần thưởng=67463.39, Số bước=136
+2025-06-28 12:57:15,808 - INFO - --- Thử nghiệm 26 ---
+2025-06-28 12:57:16,287 - INFO - Thử nghiệm 26: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.19, Z=5.24), Góc cuối=65.0°, Phần thưởng=68310.94, Số bước=136
+2025-06-28 12:57:16,287 - INFO - --- Thử nghiệm 27 ---
+2025-06-28 12:57:16,763 - INFO - Thử nghiệm 27: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.09, Z=5.36), Góc cuối=58.8°, Phần thưởng=68293.30, Số bước=136
+2025-06-28 12:57:16,778 - INFO - --- Thử nghiệm 28 ---
+2025-06-28 12:57:17,265 - INFO - Thử nghiệm 28: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.65, Z=5.28), Góc cuối=52.1°, Phần thưởng=67343.51, Số bước=136
+2025-06-28 12:57:17,265 - INFO - --- Thử nghiệm 29 ---
+2025-06-28 12:57:17,833 - INFO - Thử nghiệm 29: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.19, Z=5.72), Góc cuối=75.1°, Phần thưởng=69650.30, Số bước=137
+2025-06-28 12:57:17,833 - INFO - --- Thử nghiệm 30 ---
+2025-06-28 12:57:18,347 - INFO - Thử nghiệm 30: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.57, Z=5.12), Góc cuối=51.4°, Phần thưởng=67532.08, Số bước=135
+2025-06-28 12:57:18,347 - INFO - --- Thử nghiệm 31 ---
+2025-06-28 12:57:18,812 - INFO - Thử nghiệm 31: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.83, Z=4.98), Góc cuối=50.9°, Phần thưởng=69932.91, Số bước=136
+2025-06-28 12:57:18,812 - INFO - --- Thử nghiệm 32 ---
+2025-06-28 12:57:19,212 - INFO - Thử nghiệm 32: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.61, Z=6.34), Góc cuối=72.1°, Phần thưởng=68938.18, Số bước=137
+2025-06-28 12:57:19,212 - INFO - --- Thử nghiệm 33 ---
+2025-06-28 12:57:19,676 - INFO - Thử nghiệm 33: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.87, Z=5.37), Góc cuối=65.9°, Phần thưởng=69578.39, Số bước=137
+2025-06-28 12:57:19,676 - INFO - --- Thử nghiệm 34 ---
+2025-06-28 12:57:20,160 - INFO - Thử nghiệm 34: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.08, Z=4.97), Góc cuối=46.7°, Phần thưởng=71476.57, Số bước=135
+2025-06-28 12:57:20,160 - INFO - --- Thử nghiệm 35 ---
+2025-06-28 12:57:20,577 - INFO - Thử nghiệm 35: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.85, Z=5.90), Góc cuối=60.1°, Phần thưởng=69338.09, Số bước=136
+2025-06-28 12:57:20,577 - INFO - --- Thử nghiệm 36 ---
+2025-06-28 12:57:21,135 - INFO - Thử nghiệm 36: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.95, Z=6.31), Góc cuối=66.8°, Phần thưởng=67304.48, Số bước=137
+2025-06-28 12:57:21,135 - INFO - --- Thử nghiệm 37 ---
+2025-06-28 12:57:21,547 - INFO - Thử nghiệm 37: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.51, Z=6.67), Góc cuối=70.9°, Phần thưởng=68377.50, Số bước=136
+2025-06-28 12:57:21,547 - INFO - --- Thử nghiệm 38 ---
+2025-06-28 12:57:22,004 - INFO - Thử nghiệm 38: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.78, Z=6.97), Góc cuối=74.2°, Phần thưởng=65848.36, Số bước=138
+2025-06-28 12:57:22,004 - INFO - --- Thử nghiệm 39 ---
+2025-06-28 12:57:22,449 - INFO - Thử nghiệm 39: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.83, Z=5.69), Góc cuối=64.6°, Phần thưởng=68547.37, Số bước=138
+2025-06-28 12:57:22,449 - INFO - --- Thử nghiệm 40 ---
+2025-06-28 12:57:22,865 - INFO - Thử nghiệm 40: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.76, Z=5.91), Góc cuối=60.2°, Phần thưởng=68833.74, Số bước=138
+2025-06-28 12:57:22,865 - INFO - --- Thử nghiệm 41 ---
+2025-06-28 12:57:23,335 - INFO - Thử nghiệm 41: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.88, Z=4.91), Góc cuối=63.6°, Phần thưởng=69071.32, Số bước=135
+2025-06-28 12:57:23,335 - INFO - --- Thử nghiệm 42 ---
+2025-06-28 12:57:23,852 - INFO - Thử nghiệm 42: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.57, Z=6.40), Góc cuối=60.0°, Phần thưởng=70262.32, Số bước=137
+2025-06-28 12:57:23,852 - INFO - --- Thử nghiệm 43 ---
+2025-06-28 12:57:24,294 - INFO - Thử nghiệm 43: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.78, Z=6.14), Góc cuối=62.1°, Phần thưởng=69468.83, Số bước=138
+2025-06-28 12:57:24,294 - INFO - --- Thử nghiệm 44 ---
+2025-06-28 12:57:24,729 - INFO - Thử nghiệm 44: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.78, Z=6.57), Góc cuối=72.7°, Phần thưởng=67914.87, Số bước=137
+2025-06-28 12:57:24,729 - INFO - --- Thử nghiệm 45 ---
+2025-06-28 12:57:25,119 - INFO - Thử nghiệm 45: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.87, Z=5.82), Góc cuối=67.7°, Phần thưởng=69156.32, Số bước=137
+2025-06-28 12:57:25,119 - INFO - --- Thử nghiệm 46 ---
+2025-06-28 12:57:25,581 - INFO - Thử nghiệm 46: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.95, Z=4.72), Góc cuối=56.3°, Phần thưởng=70269.09, Số bước=137
+2025-06-28 12:57:25,581 - INFO - --- Thử nghiệm 47 ---
+2025-06-28 12:57:25,984 - INFO - Thử nghiệm 47: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=100.07, Z=6.04), Góc cuối=66.8°, Phần thưởng=69916.17, Số bước=137
+2025-06-28 12:57:25,984 - INFO - --- Thử nghiệm 48 ---
+2025-06-28 12:57:26,442 - INFO - Thử nghiệm 48: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.70, Z=4.64), Góc cuối=49.9°, Phần thưởng=69960.72, Số bước=136
+2025-06-28 12:57:26,442 - INFO - --- Thử nghiệm 49 ---
+2025-06-28 12:57:27,059 - INFO - Thử nghiệm 49: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.98, Z=5.58), Góc cuối=72.4°, Phần thưởng=68841.17, Số bước=138
+2025-06-28 12:57:27,059 - INFO - --- Thử nghiệm 50 ---
+2025-06-28 12:57:27,492 - INFO - Thử nghiệm 50: Lý do kết thúc=ĐẠT_MỤC_TIÊU, Vị trí cuối=(X=99.52, Z=6.52), Góc cuối=68.6°, Phần thưởng=67751.14, Số bước=137
+2025-06-28 12:57:27,492 - INFO - --- Tóm tắt hiệu suất ---
+2025-06-28 12:57:27,492 - INFO - Tỷ lệ thành công: 49/50 (98.0%)
+2025-06-28 12:57:27,492 - INFO - Tỷ lệ va chạm: 0/50 (0.0%)
+2025-06-28 12:57:27,492 - INFO - Tỷ lệ thất bại do nguy hiểm: 1/50 (2.0%)
+2025-06-28 12:57:27,492 - INFO - Phần thưởng trung bình: 67599.78
+2025-06-28 12:57:27,492 - INFO - Độ lệch chuẩn phần thưởng: 9681.99
+2025-06-28 12:57:27,492 - INFO - Số bước trung bình: 134.10
+2025-06-28 12:57:27,492 - INFO - Góc nghiêng trung bình cuối: 64.7°
+2025-06-28 12:57:27,492 - INFO - Khoảng cách trung bình đến mục tiêu (thất bại): 99.12 m
